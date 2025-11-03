@@ -1,0 +1,9 @@
+{
+  "title": "한국 나이 계산기",
+  "description": "한국 나이와 만나이를 쉽게 계산하세요!",
+  "birthLabel": "생년월일을 입력하세요:",
+  "calcButton": "계산하기",
+  "resultTitle": "당신의 나이",
+  "koreanAge": "한국 나이",
+  "internationalAge": "만 나이"
+}

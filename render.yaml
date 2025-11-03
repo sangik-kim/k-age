@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: k-age
+    env: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    buildCommand: npm run build
+    startCommand: ""
+    envVars:
+      - key: NODE_ENV
+        value: production
+        

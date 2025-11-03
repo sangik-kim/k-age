@@ -1,0 +1,9 @@
+{
+  "title": "Korean Age Calculator",
+  "description": "Find out your Korean and international age easily!",
+  "birthLabel": "Enter your birth date:",
+  "calcButton": "Calculate",
+  "resultTitle": "Your Ages",
+  "koreanAge": "Korean Age",
+  "internationalAge": "International Age"
+}
